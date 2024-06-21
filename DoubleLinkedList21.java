@@ -172,6 +172,4 @@ public class DoubleLinkedList21 {
         }
         return tmp.data;
     }
-
-    
 }
